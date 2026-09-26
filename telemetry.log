@@ -1,0 +1,11 @@
+# DMF TELEMETRY EXPORT v2
+# transport fragments recovered from flight recorder
+# session correlation required
+# cipher: AES-128-CTR
+# key context: FLIGHT-LOG
+# integrity: SHA-256
+FRAME-02|LEN=16|DATA=Jo0Bvkz8SsV6b869ElP1mA==
+FRAME-00|LEN=16|DATA=zAeXXa6pskdsPwc1qNWuZA==
+FRAME-04|LEN=59|DATA=2M5HYu8fjTQwLfxqxSN8kWL4cNln8442CpFOIS6LqG4n3rKFp9U8c/QRNQ7QRhdyl9yPCSrLYXAFwMA=
+FRAME-01|LEN=16|DATA=Vc+MM/m4Z+TH1UdxAcQaYg==
+FRAME-03|LEN=16|DATA=gMPsp/7KgJ6O7yvrELaICQ==
